@@ -1,0 +1,16 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "",
+      "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+      "GOODWE_BASE_URL": "http://openapi.semsportal.com",
+      "GOODWE_USERNAME": "shane@we-tility.com",
+      "GOODWE_PASSWORD": "Shane10e9",
+      "UMBRACO_GRAPHQL_BASE_URL": "https://graphql.umbraco.io",
+      "UMBRACO_PROJECT_ALIAS": "dev-mangrove",
+      "UMBRACO_API_KEY": "e51PoWTVKibKMjquELMq",
+      "COSMOSDB_CONNECTIONSTRING": "AccountEndpoint=https://wt-cosmos-data-qa.documents.azure.com:443/;AccountKey=qD0cqipDVpMnL3fndJp5RiJ6H05nHoQsqLlgDsVfb1UW6M4SZtEKZBBhMAs5HBl4vDoUw9mnuJm61rBoys7MWA==;",
+      "CONTAINER_ID": "device",
+      "DATABASE_ID": "main"
+    }
+  }
